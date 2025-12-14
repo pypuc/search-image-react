@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pypuc/search-image-react.git/static/css/main.6370f465.css",
+    "main.js": "/pypuc/search-image-react.git/static/js/main.2708a375.js",
+    "static/js/453.827c98b6.chunk.js": "/pypuc/search-image-react.git/static/js/453.827c98b6.chunk.js",
+    "index.html": "/pypuc/search-image-react.git/index.html",
+    "main.6370f465.css.map": "/pypuc/search-image-react.git/static/css/main.6370f465.css.map",
+    "main.2708a375.js.map": "/pypuc/search-image-react.git/static/js/main.2708a375.js.map",
+    "453.827c98b6.chunk.js.map": "/pypuc/search-image-react.git/static/js/453.827c98b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6370f465.css",
+    "static/js/main.2708a375.js"
+  ]
+}
