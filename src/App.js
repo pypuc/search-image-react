@@ -1,26 +1,13 @@
-import { Component } from "react";
-import Searchbar from "./components/Searchbar";
-import ImageGallery from "./components/ImageGallery";
+import Gallery from "./components/Gallery";
 import "./components/styles.css";
 
-class App extends Component {
-  state = {
-    query: "",
-  };
-
-  handleSearch = (newQuery) => {
-    this.setState({ query: newQuery });
-  };
-
-  render() {
-    return (
-      <div className="container">
-        <h1 className="title">Пошук зображень</h1>
-        <Searchbar onSubmit={this.handleSearch} />
-        <ImageGallery query={this.state.query} />
-      </div>
-    );
-  }
+function App() {
+  return (
+    <div className="container">
+      <h1 className="title">Пошук зображень</h1>
+      <Gallery />
+    </div>
+  );
 }
 
 export default App;
