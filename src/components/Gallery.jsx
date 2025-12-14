@@ -166,3 +166,4 @@ class Gallery extends Component {
 }
 
 export default Gallery;
+
