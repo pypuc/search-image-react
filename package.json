@@ -1,7 +1,7 @@
 {
   "name": "search-image-react",
   "version": "0.1.0",
-  "homepage": "https://github.com/pypuc/search-image-react.git",
+  "homepage": "https://pypuc.github.io/search-image-react/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
